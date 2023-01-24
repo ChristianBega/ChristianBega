@@ -14,7 +14,7 @@
 </p>
 
 
-Hi there👋, <br> 
+Hi 👋, <br> 
 I'm Christian a passionate & dedicated Junior full stack developer fresh out of Denver University full stack bootcamp...
 
 ---
