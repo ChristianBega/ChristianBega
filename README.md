@@ -1,9 +1,23 @@
 <h1 align="center">Christian Bega</h1>
 <h3 align="center">Junior Full Stack Web Developer</h3>
-<!--
-**`Junior Full Stack Developer`** 
 
-I'm a passionate & dedicated 
+<p align="center">
+  <a href="https://www.linkedin.com/in/christian-bega/">
+    Resume
+  </a>
+   <a href="https://www.linkedin.com/in/christian-bega/">
+   Portfolio
+  </a>
+  
+  <a href="https://www.linkedin.com/in/christian-bega/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+
+I'm a passionate & dedicated Junior full stack developer... 
+Graduated from Denver University full stack bootcamp. 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
