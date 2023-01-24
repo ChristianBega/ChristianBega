@@ -4,14 +4,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/christian-bega/">
     Resume
+     <img src="https://img.shields.io/badge/Resume-critical">
   </a>
-   <a href="https://www.linkedin.com/in/christian-bega/">
-   Portfolio
-  </a>
-  
   <a href="https://www.linkedin.com/in/christian-bega/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
+     <a href="https://www.linkedin.com/in/christian-bega/">
+    Portfolio
+  </a>
+  
 </p>
 
 
