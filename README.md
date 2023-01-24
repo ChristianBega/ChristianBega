@@ -15,7 +15,7 @@
 
 
 Hi 👋, <br> 
-I'm Christian a passionate & dedicated Junior full stack developer fresh out of Denver University full stack bootcamp...
+I'm Christian a passionate & dedicated Junior full stack web developer fresh out of Denver University full stack bootcamp...
 
 ---
 
