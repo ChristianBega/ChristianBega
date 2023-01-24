@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio%20-E1AD0E?style=for-the-badge&logoColor=white&logo=download" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio%20-E1AD0E?style=for-the-badge&logoColor=white&logo=rocket" />
   </a> 
 </p>
 
