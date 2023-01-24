@@ -1,9 +1,9 @@
-### Hi there 👋
-
+<h1 align="center">Christian Bega</h1>
+<h3 align="center">Junior Full Stack Web Developer</h3>
 <!--
-**T3mpz/T3mpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Junior Full Stack Developer`** 
 
-Here are some ideas to get you started:
+I'm a passionate & dedicated 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
