@@ -1,7 +1,7 @@
 <h1 align="center">Christian Bega</h1>
 <h3 align="center">Junior Full Stack Web Developer</h3>
 
-<p align="center">
+<p align="center" marginTop="5rem">
   <a href="">
     <img src="https://custom-icon-badges.demolab.com/badge/-Resume%20-CE4630?style=for-the-badge&logoColor=white&logo=download" />
   </a>
