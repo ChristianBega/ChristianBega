@@ -2,18 +2,15 @@
 <h3 align="center">Junior Full Stack Web Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christian-bega/">
-     <img src="https://img.shields.io/badge/Resume-critical?style=for-the-badge&logo=linkedin">
+  <a href="">
+     <img src="https://img.shields.io/badge/Resume-critical?style=for-the-badge&logo=">
   </a>
   <a href="https://www.linkedin.com/in/christian-bega/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
      <a href="https://www.linkedin.com/in/christian-bega/">
-    Portfolio
-  </a>
-  <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-  
+    [![my repos][15]][15]
+  </a>  
 </p>
 
 
