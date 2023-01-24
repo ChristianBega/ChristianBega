@@ -2,8 +2,8 @@
 <h3 align="center">Junior Full Stack Web Developer</h3>
 
 <p align="center">
-  <a href="">
-     <img src="[https://img.shields.io/badge/Resume-critical?style=for-the-badge&logo=](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)">
+  <a href="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo">
+     
   </a>
   <a href="https://www.linkedin.com/in/christian-bega/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
