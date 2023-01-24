@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="">
-    <Img src="https://custom-icon-badges.demolab.com/badge/-Resume%20-blue?style=for-the-badge&logoColor=CE4630&logo=repo" />
+    <Img src="https://custom-icon-badges.demolab.com/badge/-Resume%20-CE4630?style=for-the-badge&logoColor=white&logo=repo" />
   </a>
   <a href="https://www.linkedin.com/in/christian-bega/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
