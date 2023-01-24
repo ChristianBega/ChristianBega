@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="">
-     <img src="https://img.shields.io/badge/Resume-critical?style=for-the-badge&logo=">
+     <img src="[https://img.shields.io/badge/Resume-critical?style=for-the-badge&logo=](https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo)">
   </a>
   <a href="https://www.linkedin.com/in/christian-bega/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
@@ -12,7 +12,7 @@
     
   </a>  
 </p>
-[![my repos][15]][15]
+
 
 I'm a passionate & dedicated Junior full stack developer... 
 Graduated from Denver University full stack bootcamp. 
