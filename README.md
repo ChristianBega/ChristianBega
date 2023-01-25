@@ -15,8 +15,7 @@
 
 
 Hi 👋, <br> 
-I’m a Junior MERN full stack web developer graduate from Denver University. While at Denver University I had the opportunity to collaborate with different teams of developers to build applications that solve real world problems. 
-
+I’m a Junior MERN full-stack web developer graduate from Denver University. While at Denver University, I had the opportunity to collaborate with different teams of developers and planned, built, and deployed applications that solved real-world problems. I intend to continue to expand my knowledge of web development. And hope to apply the skills and technologies I’ve learned to continue to create new creative applications. 
 ---
 
 ### 🧰 Languages and Tools
