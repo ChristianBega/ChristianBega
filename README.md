@@ -32,7 +32,8 @@ I’m a Junior MERN full-stack web developer graduate from Denver University. Wh
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br>
 
---
+--- 
+
 <br> 
 <details>
 <summary><h3>👨‍💻 Christian's Coding Journey</h3></summary>
