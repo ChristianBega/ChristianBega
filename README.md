@@ -15,7 +15,7 @@
 
 
 Hi 👋, <br> 
-I'm Christian a passionate & dedicated Junior full stack web developer fresh out of Denver University full stack bootcamp...
+I’m a Junior MERN full stack web developer graduate from Denver University. While at Denver University I had the opportunity to collaborate with different teams of developers to build applications that solve real world problems. 
 
 ---
 
