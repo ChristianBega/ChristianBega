@@ -34,7 +34,6 @@ I’m a Junior MERN full-stack web developer graduate from Denver University. Wh
 
 --- 
 
-<br> 
 <details>
 <summary><h3>👨‍💻 Christian's Coding Journey</h3></summary>
 Coming soon...
