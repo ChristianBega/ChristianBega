@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/christian-bega/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="">
+  <a href="https://t3mpz.github.io/React-Portfolio/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio%20-E1AD0E?style=for-the-badge&logoColor=white&logo=rocket" />
   </a> 
 </p>
