@@ -5,7 +5,7 @@
   <a href="https://drive.google.com/file/d/1EWKWdADy6-VGt00r396ispcyx2H2ElWB/view?usp=sharing" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Resume%20-CE4630?style=for-the-badge&logoColor=white&logo=download" />
   </a>
-  <a href="www.linkedin.com/in/christianbega" target="_blank">
+  <a href="https://www.linkedin.com/in/christianbega/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://christianbega.github.io/React-Portfolio/" target="_blank">
