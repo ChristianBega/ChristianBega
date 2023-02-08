@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full Stack Web Developer</h3>
 
 <p align="center" marginTop="5rem">
-  <a href="https://drive.google.com/file/d/1EWKWdADy6-VGt00r396ispcyx2H2ElWB/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1RruAEamtrxdERd2dkfEqc-RWvbOGFl4M/view?usp=sharing" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Resume%20-CE4630?style=for-the-badge&logoColor=white&logo=download" />
   </a>
   <a href="https://www.linkedin.com/in/christianbega/" target="_blank">
