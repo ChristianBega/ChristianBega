@@ -18,8 +18,8 @@ Hi 👋, <br>
 I’m a Junior MERN full-stack web developer graduate from Denver University. While at Denver University, I had the opportunity to collaborate with different teams of developers to plan, build, and deploy applications that solved real-world problems. I intend to continue to expand my knowledge of web development. And hope to apply the skills and technologies I’ve learned to continue to create new creative applications.
 
 ---
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en" alt="christianbega" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact" alt="christianbega" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en" alt="christianbega" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact" alt="christianbega" /></p>
 
 
 
