@@ -19,7 +19,7 @@ I’m a Junior MERN full-stack web developer graduate from Denver University. Wh
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en" alt="christianbega" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact" alt="christianbega" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact" alt="christianbega" /></p>
 
 
 
