@@ -18,9 +18,14 @@ Hi 👋, <br>
 I’m a Junior MERN full-stack web developer graduate from Denver University. While at Denver University, I had the opportunity to collaborate with different teams of developers to plan, build, and deploy applications that solved real-world problems. I intend to continue to expand my knowledge of web development. And hope to apply the skills and technologies I’ve learned to continue to create new creative applications.
 
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact" alt="christianbega" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en" alt="christianbega" /></p>
+
+---
 
 ### 🧰 Languages and Tools
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<!-- <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -30,7 +35,17 @@ I’m a Junior MERN full-stack web developer graduate from Denver University. Wh
 <img align="left" alt="Git" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><br> -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,mongodb,express,nodejs,graphql,html,css,figma,git,heroku,netlify,mysql,materialui,jquery,tailwind,bootstrap,sass,apollo, " />
+  </a>
+</p>
+
+
+
+
+
 
 --- 
 
