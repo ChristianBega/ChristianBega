@@ -14,8 +14,15 @@
 </p>
 
 
-Hi 👋, <br> 
-I’m a Junior MERN full-stack web developer graduate from Denver University. While at Denver University, I had the opportunity to collaborate with different teams of developers to plan, build, and deploy applications that solved real-world problems. I intend to continue to expand my knowledge of web development. And hope to apply the skills and technologies I’ve learned to continue to create new creative applications.
+
+Hi 👋 I'm Chris, a full stack web developer with over 3 years of experience building responsive React single-page applications. 
+
+My development journey started with teaching myself HTML, CSS, and JavaScript basics. That initial spark of interest grew into a passion that led me to Denver University's Full Stack bootcamp. During my time there, I had the opportunity to collaborate with other developers to plan, build, and deploy real-world projects that solidified my full stack capabilities.
+
+Since then, I've been working with a telehealth startup where I've worn many hats. I helped develop our Almadelic telehealth platform from the ground up using React and integrating it with various APIs like CRM and EHR systems, Stripe payment processing, and AWS (using API Gateway, Lambda, and S3). Most recently, I led the successful rebrand of our Yumaway website and have been focusing on new product initiatives to expand our healthcare technology offerings.
+
+I love solving complex problems and creating applications that make a real difference. My next chapter? I'm looking to bring my experience to new challenges - whether that's building impactful projects as a freelancer or joining a forward-thinking team where my skills can help drive innovation.
+
 
 ---
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en" alt="christianbega" /></p>
