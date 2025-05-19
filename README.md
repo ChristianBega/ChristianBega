@@ -15,8 +15,6 @@
   </a> 
 </p>
 
-
-
 Hi 👋 I'm Chris, <br/>
 A full stack web developer with over 3 years of experience building responsive React single-page applications. 
 
@@ -26,11 +24,9 @@ Since then, I've been working with a telehealth startup where I've worn many hat
 
 I love solving complex problems and creating applications that make a real difference. My next chapter? I'm looking to bring my experience to new challenges - whether that's building impactful projects as a freelancer or joining a forward-thinking team where my skills can help drive innovation.
 
-
 ---
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en" alt="christianbega" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact" alt="christianbega" /></p> -->
-
 ### 🧰 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
@@ -46,7 +42,6 @@ I love solving complex problems and creating applications that make a real diffe
 - **Dev Tools:** Git, GitHub, CI/CD, Figma
 - **Other Skills:** Responsive Design, Performance Optimization, API Integration, SEO Basics
 --- 
-
 
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en)
