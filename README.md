@@ -1,5 +1,5 @@
 <h1 align="center">Chris Bega</h1>
-<h3 align="center">Junior Full Stack Web Developer</h3>
+<h3 align="center"> Full Stack Web Developer</h3>
 
 <p align="center" marginTop="5rem">
   <a href="https://docs.google.com/document/d/1D2z1CbWzSJKPXjojNp60Mkzq3B66Cqd-/edit?usp=sharing&ouid=108432228010067374897&rtpof=true&sd=true" target="_blank">
