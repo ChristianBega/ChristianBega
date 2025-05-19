@@ -2,10 +2,10 @@
 <h3 align="center"> Full Stack Web Developer</h3>
 
 <p align="center" marginTop="5rem">
-  <a href="https://github.com/ChristianBega/ChristianBega/raw/main/Chris_Bega_Resume.pdf" target="_blank">
+  <a href="https://github.com/ChristianBega/ChristianBega/raw/main/Christian_Bega_Resume.pdf" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Resume%20-CE4630?style=for-the-badge&logoColor=white&logo=download" />
   </a>
-  <a href="https://github.com/ChristianBega/ChristianBega/blob/main/Chris_Bega_Resume.pdf" target="_blank">
+  <a href="https://github.com/ChristianBega/ChristianBega/blob/main/Christian_Bega_Resume.pdf" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Resume%20-CE4630?style=for-the-badge&logoColor=white&logo=download" />
   </a>
   <a href="https://www.linkedin.com/in/christianbega/" target="_blank">
