@@ -49,5 +49,3 @@ I love solving complex problems and creating applications that make a real diffe
 ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact)
-
----
