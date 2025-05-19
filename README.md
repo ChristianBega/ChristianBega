@@ -43,6 +43,21 @@ I love solving complex problems and creating applications that make a real diffe
   </a>
 </p>
 
+
+### 🧰 Languages and Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,graphql,aws,firebase,html,css,materialui,tailwind,sass,bootstrap,figma,git,github,netlify,heroku" />
+  </a>
+</p>
+
+### 💻 Tech Stack
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML/CSS, Material UI, Redux, Context API
+- **Backend:** Node.js, Express, GraphQL, REST APIs
+- **Databases:** MongoDB, NoSQL
+- **Cloud Services:** AWS (API Gateway, Lambda, S3), Firebase
+- **Dev Tools:** Git, GitHub, CI/CD, Figma
+- **Other Skills:** Responsive Design, Performance Optimization, EHR/CRM Integration, SEO
 --- 
 
           
