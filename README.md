@@ -1,5 +1,5 @@
 <h1 align="center">Chris Bega</h1>
-<h3 align="center"> Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center" marginTop="5rem">
   <a href="https://docs.google.com/document/d/1D2z1CbWzSJKPXjojNp60Mkzq3B66Cqd-/edit?usp=sharing&ouid=108432228010067374897&rtpof=true&sd=true" target="_blank">
@@ -13,9 +13,9 @@
   </a> 
 </p>
 
+## About Me
 
-
-Hi 👋 I'm Chris, <br/>
+Hi 👋 I'm Chris,  
 A full stack web developer with over 3 years of experience building responsive React single-page applications. 
 
 My development journey started with teaching myself HTML, CSS, and JavaScript basics. That initial spark of interest grew into a passion that led me to Denver University's Full Stack bootcamp. During my time there, I had the opportunity to collaborate with other developers to plan, build, and deploy real-world projects that solidified my full stack capabilities.
@@ -24,32 +24,30 @@ Since then, I've been working with a telehealth startup where I've worn many hat
 
 I love solving complex problems and creating applications that make a real difference. My next chapter? I'm looking to bring my experience to new challenges - whether that's building impactful projects as a freelancer or joining a forward-thinking team where my skills can help drive innovation.
 
-
----
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en" alt="christianbega" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact" alt="christianbega" /></p> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact)
-
-
-
 ---
 
-### 🧰 Languages and Tools
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🧰 Languages and Tools
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,graphql,aws,firebase,html,css,materialui,tailwind,sass,bootstrap,figma,git,github,netlify,heroku" />
   </a>
 </p>
 
-### 💻 Tech Stack
+## 💻 Tech Stack
+
 - **Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML/CSS, Material UI, Redux, Context API
 - **Backend:** Node.js, Express, GraphQL, REST APIs
 - **Databases:** MongoDB, NoSQL
 - **Cloud Services:** AWS (API Gateway, Lambda, S3), Firebase
 - **Dev Tools:** Git, GitHub, CI/CD, Figma
 - **Other Skills:** Responsive Design, Performance Optimization, API Integration, SEO Basics
---- 
-
-          
