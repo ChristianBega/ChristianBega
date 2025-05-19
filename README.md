@@ -39,14 +39,6 @@ I love solving complex problems and creating applications that make a real diffe
 ### 🧰 Languages and Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,mongodb,express,nodejs,graphql,html,css,figma,git,heroku,netlify,mysql,materialui,jquery,tailwind,bootstrap,sass,apollo, " />
-  </a>
-</p>
-
-
-### 🧰 Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,mongodb,graphql,aws,firebase,html,css,materialui,tailwind,sass,bootstrap,figma,git,github,netlify,heroku" />
   </a>
 </p>
@@ -57,7 +49,7 @@ I love solving complex problems and creating applications that make a real diffe
 - **Databases:** MongoDB, NoSQL
 - **Cloud Services:** AWS (API Gateway, Lambda, S3), Firebase
 - **Dev Tools:** Git, GitHub, CI/CD, Figma
-- **Other Skills:** Responsive Design, Performance Optimization, EHR/CRM Integration, SEO
+- **Other Skills:** Responsive Design, Performance Optimization, API Integration, SEO Basics
 --- 
 
           
