@@ -1,4 +1,4 @@
-<h1 align="center">Christian Bega</h1>
+<h1 align="center">Chris Bega</h1>
 <h3 align="center">Junior Full Stack Web Developer</h3>
 
 <p align="center" marginTop="5rem">
