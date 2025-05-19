@@ -1,6 +1,8 @@
 <h1 align="center">Christian Bega</h1>
 <h3 align="center"> Full Stack Web Developer</h3>
 
+---
+
 <p align="center" marginTop="5rem">
   <a href="https://github.com/ChristianBega/ChristianBega/raw/main/Christian_Bega_Web_Developer_Resume.pdf" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/-Resume%20-CE4630?style=for-the-badge&logoColor=white&logo=download" />
