@@ -15,7 +15,8 @@
 
 
 
-Hi 👋 I'm Chris, a full stack web developer with over 3 years of experience building responsive React single-page applications. 
+Hi 👋 I'm Chris, <br/>
+A full stack web developer with over 3 years of experience building responsive React single-page applications. 
 
 My development journey started with teaching myself HTML, CSS, and JavaScript basics. That initial spark of interest grew into a passion that led me to Denver University's Full Stack bootcamp. During my time there, I had the opportunity to collaborate with other developers to plan, build, and deploy real-world projects that solidified my full stack capabilities.
 
