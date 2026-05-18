@@ -38,6 +38,6 @@ I love solving complex problems and creating applications that make a real diffe
 - **Other Skills:** Responsive Design, Performance Optimization, API Integration, SEO Basics
 --- 
 
-### GitHub Stats
+<!-- ### GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christianbega&show_icons=true&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=christianbega&show_icons=true&locale=en&layout=compact) -->
